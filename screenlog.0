@@ -1,0 +1,16 @@
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     12 %  14 %   9 %   7 %   3 %   0 %
+Peak:        25 %  25 %  25 %  25 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 19-06-2021 23:34:47
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 19-06-2021 23:34:48
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 19-06-2021 23:34:48
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
