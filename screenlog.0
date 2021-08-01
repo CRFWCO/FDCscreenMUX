@@ -1,0 +1,1594 @@
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      9 %  16 %   8 %   7 %   3 %   0 %
+Peak:        25 %  26 %  25 %  25 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 25-07-2021 02:37:26
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 25-07-2021 02:37:26
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 25-07-2021 02:37:26
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 25-07-2021 02:37:26
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     11 %  18 %   9 %   8 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 25-07-2021 05:37:27
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 25-07-2021 05:37:27
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 25-07-2021 05:37:27
+$MUX1230,2,1,B0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,618,179,0,644,4E7,0,663,169,0,611,265,0,609,363,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,44,146,0,99,5331,1,1,1,1,1,0,162,440,227,303,338,0,2,0,-3,1,2,-650,7,15,6,5,2,0,14,14,14,14,14,0,MMF,6740,25-07-2021 08:37:25
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  15 %   6 %   5 %   2 %   0 %
+Peak:        25 %  26 %  25 %  21 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 25-07-2021 08:37:28
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 25-07-2021 08:37:28
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 25-07-2021 08:37:28
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 25-07-2021 08:37:28
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      4 %  15 %   5 %   4 %   1 %   0 %
+Peak:        25 %  26 %  24 %  24 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 25-07-2021 11:37:29
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 25-07-2021 11:37:29
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 25-07-2021 11:37:29
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 25-07-2021 11:37:29
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 25-07-2021 11:37:29
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  14 %   4 %   4 %   2 %   0 %
+Peak:        25 %  25 %  25 %  19 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 25-07-2021 14:37:29
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 25-07-2021 14:37:29
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 25-07-2021 14:37:29
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 25-07-2021 14:37:29
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 25-07-2021 14:37:29
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %  14 %   6 %   3 %   2 %   0 %
+Peak:        24 %  25 %  25 %  18 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 25-07-2021 17:37:29
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 25-07-2021 17:37:29
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 25-07-2021 17:37:29
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 25-07-2021 17:37:29
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 25-07-2021 17:37:29
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  17 %   8 %   7 %   2 %   0 %
+Peak:        25 %  26 %  25 %  24 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 25-07-2021 20:37:29
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 25-07-2021 20:37:29
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 25-07-2021 20:37:29
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     11 %  17 %   9 %   9 %   3 %   0 %
+Peak:        25 %  26 %  24 %  25 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 25-07-2021 23:37:30
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 25-07-2021 23:37:30
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     10 %  17 %   8 %   9 %   4 %   0 %
+Peak:        25 %  26 %  25 %  25 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 26-07-2021 02:37:30
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 26-07-2021 02:37:31
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 26-07-2021 02:37:31
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 26-07-2021 02:37:31
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 26-07-2021 02:37:31
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  16 %   7 %   7 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 26-07-2021 05:37:32
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 26-07-2021 05:37:32
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 26-07-2021 05:37:32
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 26-07-2021 05:37:32
+$MUX1230,2,1,B0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,618,17A,0,644,50A,0,663,168,0,611,26F,0,609,36D,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,44,146,0,99,5314,1,1,1,1,1,0,159,442,227,306,343,0,4,4,1,2,4,-650,8,16,8,5,2,0,14,14,14,14,14,0,MMF,6740,26-07-2021 08:37:29
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  16 %   8 %   5 %   2 %   0 %
+Peak:        25 %  26 %  24 %  20 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 26-07-2021 08:37:32
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 26-07-2021 08:37:32
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 26-07-2021 08:37:32
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 26-07-2021 08:37:32
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  16 %   5 %   5 %   2 %   0 %
+Peak:        25 %  25 %  24 %  18 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 26-07-2021 11:37:33
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 26-07-2021 11:37:33
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 26-07-2021 11:37:33
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 26-07-2021 11:37:33
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 26-07-2021 11:37:33
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  14 %   5 %   5 %   1 %   0 %
+Peak:        25 %  26 %  24 %  20 %  18 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 26-07-2021 14:37:33
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 26-07-2021 14:37:33
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 26-07-2021 14:37:33
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 26-07-2021 14:37:33
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 26-07-2021 14:37:33
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  15 %   6 %   4 %   2 %   0 %
+Peak:        25 %  26 %  25 %  21 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 26-07-2021 17:37:34
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 26-07-2021 17:37:34
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 26-07-2021 17:37:34
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 26-07-2021 17:37:34
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  16 %   7 %   6 %   2 %   0 %
+Peak:        25 %  26 %  24 %  22 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 26-07-2021 20:37:34
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 26-07-2021 20:37:34
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  18 %   7 %   8 %   2 %   0 %
+Peak:        25 %  26 %  24 %  24 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 26-07-2021 23:37:35
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 26-07-2021 23:37:35
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 26-07-2021 23:37:35
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 26-07-2021 23:37:35
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 26-07-2021 23:37:35
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  17 %   8 %   7 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 27-07-2021 02:37:34
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 27-07-2021 02:37:35
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 27-07-2021 02:37:35
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 27-07-2021 02:37:35
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      6 %  17 %   8 %   6 %   2 %   0 %
+Peak:        25 %  26 %  25 %  23 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 27-07-2021 05:37:36
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 27-07-2021 05:37:36
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 27-07-2021 05:37:36
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 27-07-2021 05:37:36
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 27-07-2021 05:37:36
+$MUX1230,2,1,B0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,618,178,0,644,504,0,663,167,0,611,270,0,609,369,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,42,146,0,99,5348,1,1,1,1,1,0,158,443,225,308,342,0,4,1,-2,3,4,-650,5,17,5,6,2,0,14,14,14,14,14,0,MMF,6740,27-07-2021 08:37:34
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  17 %   5 %   6 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  18 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 27-07-2021 08:37:37
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 27-07-2021 08:37:37
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 27-07-2021 08:37:37
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 27-07-2021 08:37:37
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 27-07-2021 08:37:37
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      6 %  17 %   5 %   6 %   4 %   0 %
+Peak:        25 %  26 %  25 %  19 %  16 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 27-07-2021 11:37:38
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 27-07-2021 11:37:38
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 27-07-2021 11:37:38
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  16 %   6 %   8 %   5 %   0 %
+Peak:        25 %  26 %  24 %  24 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 27-07-2021 14:37:37
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 27-07-2021 14:37:38
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 27-07-2021 14:37:38
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 27-07-2021 14:37:38
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  14 %   5 %   6 %   2 %   0 %
+Peak:        25 %  25 %  24 %  20 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 27-07-2021 17:37:39
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 27-07-2021 17:37:39
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 27-07-2021 17:37:39
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  15 %   5 %   6 %   2 %   0 %
+Peak:        25 %  25 %  24 %  24 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 27-07-2021 20:37:40
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 27-07-2021 20:37:40
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 27-07-2021 20:37:40
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 27-07-2021 20:37:40
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 27-07-2021 20:37:40
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      9 %  15 %   5 %  10 %   2 %   0 %
+Peak:        25 %  26 %  25 %  24 %  20 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 27-07-2021 23:37:39
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 27-07-2021 23:37:40
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 27-07-2021 23:37:40
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 27-07-2021 23:37:40
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  12 %   6 %  10 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 28-07-2021 02:37:41
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 28-07-2021 02:37:41
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 28-07-2021 02:37:41
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 28-07-2021 02:37:41
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 28-07-2021 02:37:41
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  15 %   5 %   5 %   2 %   0 %
+Peak:        25 %  25 %  25 %  25 %  19 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 28-07-2021 05:37:42
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 28-07-2021 05:37:42
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 28-07-2021 05:37:42
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 28-07-2021 05:37:42
+$MUX1230,2,1,B0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,618,177,0,644,4F0,0,663,168,0,611,26B,0,609,367,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,44,146,0,99,5331,1,1,1,1,1,0,158,441,226,304,341,0,0,3,-1,1,4,-650,8,17,5,6,4,0,14,14,14,14,14,0,MMF,6740,28-07-2021 08:37:40
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  16 %   5 %   6 %   4 %   0 %
+Peak:        24 %  26 %  25 %  18 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 28-07-2021 08:37:43
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 28-07-2021 08:37:43
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 28-07-2021 08:37:43
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 28-07-2021 08:37:43
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 28-07-2021 08:37:43
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      6 %  16 %   4 %   5 %   2 %   0 %
+Peak:        25 %  26 %  25 %  19 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 28-07-2021 11:37:43
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 28-07-2021 11:37:43
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 28-07-2021 11:37:43
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 28-07-2021 11:37:43
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 28-07-2021 11:37:43
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     12 %  15 %   5 %   5 %   2 %   0 %
+Peak:        25 %  26 %  25 %  21 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 28-07-2021 14:37:43
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 28-07-2021 14:37:43
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 28-07-2021 14:37:43
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 28-07-2021 14:37:43
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  14 %   5 %   5 %   2 %   0 %
+Peak:        24 %  26 %  25 %  24 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 28-07-2021 17:37:44
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 28-07-2021 17:37:44
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 28-07-2021 17:37:44
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 28-07-2021 17:37:44
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 28-07-2021 17:37:44
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  18 %   7 %   9 %   2 %   0 %
+Peak:        25 %  25 %  25 %  25 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 28-07-2021 20:37:44
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 28-07-2021 20:37:44
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 28-07-2021 20:37:44
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 28-07-2021 20:37:44
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 28-07-2021 20:37:44
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  18 %   6 %   8 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 28-07-2021 23:37:45
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 28-07-2021 23:37:45
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 28-07-2021 23:37:45
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 28-07-2021 23:37:45
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     11 %  17 %   8 %   9 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test aborted due to system activity
+B0 B2 3E7.0000001DB0 29-07-2021 02:37:46
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 29-07-2021 02:37:46
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 29-07-2021 02:37:46
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 29-07-2021 02:37:46
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  17 %   7 %   6 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 29-07-2021 05:37:47
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 29-07-2021 05:37:47
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 29-07-2021 05:37:47
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 29-07-2021 05:37:47
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 29-07-2021 05:37:47
+$MUX1230,2,1,B0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,618,16F,0,644,4E3,0,663,16A,0,611,25F,0,609,35F,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,46,146,0,99,5318,1,1,1,1,1,0,156,436,226,297,341,0,0,3,1,-2,2,-650,8,17,5,5,3,0,14,14,14,14,14,0,MMF,6740,29-07-2021 08:37:44
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  17 %   5 %   5 %   3 %   0 %
+Peak:        25 %  26 %  25 %  24 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 29-07-2021 08:37:46
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 29-07-2021 08:37:47
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 29-07-2021 08:37:47
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 29-07-2021 08:37:47
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      6 %  14 %   4 %   5 %   2 %   0 %
+Peak:        25 %  26 %  24 %  21 %  20 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 29-07-2021 11:37:48
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 29-07-2021 11:37:48
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 29-07-2021 11:37:48
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 29-07-2021 11:37:48
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 29-07-2021 11:37:48
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      4 %  11 %   5 %   3 %   0 %   0 %
+Peak:        25 %  25 %  23 %  20 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 29-07-2021 14:37:48
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 29-07-2021 14:37:48
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 29-07-2021 14:37:48
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 29-07-2021 14:37:48
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 29-07-2021 14:37:48
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %  13 %   2 %   4 %   3 %   0 %
+Peak:        25 %  25 %  24 %  26 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 29-07-2021 17:37:48
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 29-07-2021 17:37:48
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 29-07-2021 17:37:48
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 29-07-2021 17:37:48
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 29-07-2021 17:37:48
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  18 %   6 %   8 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 29-07-2021 20:37:49
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 29-07-2021 20:37:49
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      9 %  15 %   8 %   7 %   3 %   0 %
+Peak:        25 %  26 %  25 %  25 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 29-07-2021 23:37:49
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 29-07-2021 23:37:49
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     10 %  16 %   7 %   8 %   3 %   0 %
+Peak:        25 %  25 %  25 %  25 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 30-07-2021 02:37:50
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 30-07-2021 02:37:50
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 30-07-2021 02:37:50
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 30-07-2021 02:37:50
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 30-07-2021 02:37:50
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  18 %   6 %   7 %   1 %   0 %
+Peak:        25 %  26 %  24 %  25 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 30-07-2021 05:37:51
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 30-07-2021 05:37:51
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 30-07-2021 05:37:51
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 30-07-2021 05:37:51
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 30-07-2021 05:37:51
+$MUX1230,2,1,B0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,618,171,0,644,509,0,663,166,0,611,269,0,609,367,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,42,146,0,99,5301,1,1,1,1,1,0,152,444,225,297,339,0,2,3,-3,3,3,-650,7,16,5,5,2,0,14,14,14,14,14,0,MMF,6740,30-07-2021 08:37:48
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  16 %   5 %   5 %   2 %   0 %
+Peak:        25 %  25 %  24 %  24 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 30-07-2021 08:37:51
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 30-07-2021 08:37:51
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 30-07-2021 08:37:51
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 30-07-2021 08:37:51
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  15 %   4 %   3 %   2 %   0 %
+Peak:        25 %  26 %  24 %  19 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 30-07-2021 11:37:52
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 30-07-2021 11:37:52
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 30-07-2021 11:37:52
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 30-07-2021 11:37:52
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 30-07-2021 11:37:52
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  12 %   4 %   3 %   2 %   0 %
+Peak:        25 %  25 %  24 %  21 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 30-07-2021 14:37:52
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 30-07-2021 14:37:52
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 30-07-2021 14:37:52
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 30-07-2021 14:37:52
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 30-07-2021 14:37:52
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+PROBLEM: high temperature
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %  15 %   6 %   6 %   2 %   0 %
+Peak:        25 %  25 %  25 %  17 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 30-07-2021 17:37:52
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 30-07-2021 17:37:52
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 30-07-2021 17:37:52
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 30-07-2021 17:37:52
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 30-07-2021 17:37:52
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  16 %   5 %   6 %   2 %   0 %
+Peak:        25 %  25 %  25 %  25 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 30-07-2021 20:37:53
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 30-07-2021 20:37:53
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 30-07-2021 20:37:53
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 30-07-2021 20:37:53
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 30-07-2021 20:37:53
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      8 %  18 %   6 %   8 %   2 %   0 %
+Peak:        25 %  26 %  25 %  25 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 30-07-2021 23:37:54
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 30-07-2021 23:37:54
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 30-07-2021 23:37:54
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 30-07-2021 23:37:54
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 30-07-2021 23:37:54
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      9 %  18 %   7 %  11 %   2 %   0 %
+Peak:        25 %  26 %  25 %  24 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+B0 B1 3E7.0000001DB0 31-07-2021 02:37:54
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 31-07-2021 02:37:54
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 31-07-2021 02:37:54
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 31-07-2021 02:37:54
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 31-07-2021 02:37:54
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      9 %  18 %   5 %   7 %   2 %   0 %
+Peak:        25 %  25 %  25 %  25 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 31-07-2021 05:37:54
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 31-07-2021 05:37:55
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 31-07-2021 05:37:55
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 31-07-2021 05:37:55
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 31-07-2021 05:37:55
+$MUX1230,2,1,B0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,618,172,0,644,513,0,663,164,0,611,26B,0,609,36F,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,40,146,0,99,5340,1,1,1,1,1,0,152,444,225,295,341,0,4,2,-2,1,4,-650,7,18,5,5,2,0,14,14,14,14,14,0,MMF,6740,31-07-2021 08:37:53
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  18 %   5 %   5 %   2 %   0 %
+Peak:        25 %  25 %  25 %  21 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 31-07-2021 08:37:56
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 31-07-2021 08:37:56
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 31-07-2021 08:37:56
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 31-07-2021 08:37:56
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 31-07-2021 08:37:56
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      6 %  14 %   4 %   5 %   2 %   0 %
+Peak:        25 %  26 %  25 %  21 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 31-07-2021 11:37:56
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 31-07-2021 11:37:56
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 31-07-2021 11:37:56
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 31-07-2021 11:37:56
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  15 %   3 %   4 %   2 %   0 %
+Peak:        25 %  25 %  24 %  21 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 31-07-2021 14:37:57
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 31-07-2021 14:37:57
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 31-07-2021 14:37:57
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 31-07-2021 14:37:57
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 31-07-2021 14:37:57
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      7 %  14 %   4 %   5 %   4 %   0 %
+Peak:        25 %  25 %  25 %  25 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 31-07-2021 17:37:57
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 31-07-2021 17:37:57
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 31-07-2021 17:37:57
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 31-07-2021 17:37:57
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 31-07-2021 17:37:57
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:     10 %  16 %   9 %   9 %   3 %   0 %
+Peak:        25 %  26 %  25 %  25 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 31-07-2021 20:37:57
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 31-07-2021 20:37:57
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 31-07-2021 20:37:57
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 31-07-2021 20:37:57
