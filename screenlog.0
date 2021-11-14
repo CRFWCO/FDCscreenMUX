@@ -1,0 +1,1063 @@
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   7 %   2 %   4 %   0 %   0 %
+Peak:        24 %  24 %  23 %  21 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 07-11-2021 03:30:16
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 07-11-2021 03:30:16
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 07-11-2021 03:30:16
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 07-11-2021 03:30:16
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 07-11-2021 03:30:16
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   5 %   1 %   2 %   0 %   0 %
+Peak:        24 %  24 %  24 %  13 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 07-11-2021 06:30:17
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 07-11-2021 06:30:17
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 07-11-2021 06:30:17
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 07-11-2021 06:30:17
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 07-11-2021 06:30:17
+$MUX1230,2,1,B0,2,0030,0,1,1,1,180,1440,180,110,1000,25,30,100,0,618,1D7,0,644,5A2,0,663,16A,0,611,2C7,0,609,3AF,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,16,146,0,99,5308,1,1,1,1,1,0,212,525,238,420,413,0,2,4,0,-2,-2,-650,1,3,2,1,0,0,19,19,19,19,19,0,LIT,MMF,6740,07-11-2021 09:30:15
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   3 %   2 %   1 %   0 %   0 %
+Peak:        23 %  24 %  21 %  19 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 07-11-2021 09:30:17
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 07-11-2021 09:30:18
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 07-11-2021 09:30:18
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 07-11-2021 09:30:18
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 07-11-2021 09:30:18
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   5 %   1 %   2 %   0 %   0 %
+Peak:        23 %  24 %  18 %  24 %  16 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 07-11-2021 12:30:19
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 07-11-2021 12:30:19
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 07-11-2021 12:30:19
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 07-11-2021 12:30:19
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 07-11-2021 12:30:19
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   3 %   1 %   3 %   0 %   0 %
+Peak:        25 %  21 %  24 %  12 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 07-11-2021 15:30:19
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 07-11-2021 15:30:20
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 07-11-2021 15:30:20
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 07-11-2021 15:30:20
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 07-11-2021 15:30:20
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   1 %   1 %   0 %   0 %
+Peak:        24 %  25 %  25 %  10 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 07-11-2021 18:30:20
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 07-11-2021 18:30:20
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 07-11-2021 18:30:20
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 07-11-2021 18:30:20
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 07-11-2021 18:30:20
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      4 %   4 %   2 %   2 %   0 %   0 %
+Peak:        25 %  23 %  21 %  15 %  17 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 07-11-2021 21:30:21
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 07-11-2021 21:30:21
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 07-11-2021 21:30:21
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 07-11-2021 21:30:21
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 07-11-2021 21:30:21
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   2 %   2 %   0 %   0 %
+Peak:        24 %  23 %  24 %  22 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 08-11-2021 00:30:21
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 08-11-2021 00:30:22
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 00:30:22
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 08-11-2021 00:30:22
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 08-11-2021 00:30:22
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   2 %   3 %   0 %   0 %
+Peak:        24 %  24 %  23 %  16 %  16 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 08-11-2021 03:30:22
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 03:30:23
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 08-11-2021 03:30:23
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 08-11-2021 03:30:23
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 08-11-2021 03:30:23
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   5 %   1 %   3 %   0 %   0 %
+Peak:        25 %  25 %  22 %  17 %  19 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 06:30:22
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 08-11-2021 06:30:23
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 08-11-2021 06:30:23
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 08-11-2021 06:30:23
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 08-11-2021 06:30:23
+$MUX1230,2,1,B0,2,0030,0,1,1,1,180,1440,180,110,1000,25,30,100,0,618,1D9,0,644,5AB,0,663,16A,0,611,2CB,0,609,3B4,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,14,146,0,99,5348,1,1,1,1,1,0,214,533,238,421,416,0,2,4,1,0,4,-650,3,5,1,1,0,0,19,19,19,19,19,0,LIT,MMF,6740,08-11-2021 09:30:21
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   1 %   1 %   0 %   0 %
+Peak:        24 %  23 %  19 %  18 %  19 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 08-11-2021 09:30:24
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 08-11-2021 09:30:24
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 08-11-2021 09:30:24
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 08-11-2021 09:30:24
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 09:30:24
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   3 %   3 %   2 %   0 %   0 %
+Peak:        24 %  23 %  20 %  17 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 08-11-2021 12:30:25
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 08-11-2021 12:30:25
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 08-11-2021 12:30:25
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 12:30:25
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 08-11-2021 12:30:25
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   1 %   2 %   3 %   0 %
+Peak:        24 %  25 %  22 %  17 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 08-11-2021 15:30:26
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 15:30:26
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 08-11-2021 15:30:26
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 08-11-2021 15:30:26
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 08-11-2021 15:30:26
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   1 %   2 %   0 %   0 %
+Peak:        24 %  25 %  23 %  20 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 08-11-2021 18:30:27
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 08-11-2021 18:30:27
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 08-11-2021 18:30:27
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 18:30:27
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 08-11-2021 18:30:27
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   5 %   1 %   2 %   0 %   0 %
+Peak:        25 %  25 %  19 %  16 %  20 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 08-11-2021 21:30:27
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 08-11-2021 21:30:27
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 08-11-2021 21:30:27
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 08-11-2021 21:30:27
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 08-11-2021 21:30:27
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   6 %   1 %   2 %   0 %   0 %
+Peak:        23 %  23 %  25 %  14 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 09-11-2021 00:30:28
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 09-11-2021 00:30:28
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 00:30:28
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 09-11-2021 00:30:28
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 09-11-2021 00:30:28
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   6 %   1 %   2 %   0 %   0 %
+Peak:        24 %  24 %  25 %  18 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 09-11-2021 03:30:29
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 09-11-2021 03:30:29
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 09-11-2021 03:30:29
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 09-11-2021 03:30:29
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 03:30:29
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   4 %   1 %   1 %   0 %   0 %
+Peak:        24 %  24 %  25 %  22 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 09-11-2021 06:30:30
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 09-11-2021 06:30:30
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 09-11-2021 06:30:30
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 06:30:30
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 09-11-2021 06:30:30
+$MUX1230,2,1,B0,2,0030,0,1,1,1,180,1440,180,110,1000,25,30,100,0,618,1C9,0,644,579,0,663,167,0,611,2BE,0,609,3A7,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,24,146,0,99,5338,1,1,1,1,1,0,196,509,235,392,389,0,3,4,0,3,3,-650,2,6,2,1,1,0,19,19,19,19,19,0,LIT,MMF,6740,09-11-2021 09:30:28
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   6 %   2 %   1 %   1 %   0 %
+Peak:        24 %  22 %  23 %  17 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 09-11-2021 09:30:31
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 09-11-2021 09:30:31
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 09-11-2021 09:30:31
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 09:30:31
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 09-11-2021 09:30:31
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   4 %   1 %   1 %   0 %   0 %
+Peak:        25 %  24 %  16 %  20 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 09-11-2021 12:30:31
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 12:30:31
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 09-11-2021 12:30:31
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 09-11-2021 12:30:31
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 09-11-2021 12:30:31
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      4 %   4 %   1 %   1 %   0 %   0 %
+Peak:        24 %  24 %  21 %  22 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 09-11-2021 15:30:32
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 09-11-2021 15:30:32
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 09-11-2021 15:30:32
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 09-11-2021 15:30:32
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 15:30:32
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   5 %   2 %   2 %   0 %   0 %
+Peak:        25 %  24 %  23 %  14 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 09-11-2021 18:30:33
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 09-11-2021 18:30:33
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 18:30:33
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 09-11-2021 18:30:33
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 09-11-2021 18:30:33
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   1 %   2 %   0 %   0 %
+Peak:        24 %  22 %  22 %  19 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 09-11-2021 21:30:34
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 09-11-2021 21:30:34
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 09-11-2021 21:30:34
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 09-11-2021 21:30:34
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 09-11-2021 21:30:34
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   1 %   2 %   0 %   0 %
+Peak:        24 %  24 %  22 %  19 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 10-11-2021 00:30:34
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 10-11-2021 00:30:35
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 10-11-2021 00:30:35
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 10-11-2021 00:30:35
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 10-11-2021 00:30:35
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %  10 %   2 %   1 %   0 %   0 %
+Peak:        24 %  24 %  19 %  19 %  24 %   0 %
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 10-11-2021 03:30:35
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 10-11-2021 03:30:35
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 10-11-2021 03:30:35
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 10-11-2021 03:30:35
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   9 %   2 %   2 %   4 %   0 %
+Peak:        24 %  22 %  24 %  15 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 10-11-2021 06:30:35
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 10-11-2021 06:30:36
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 10-11-2021 06:30:36
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 10-11-2021 06:30:36
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 10-11-2021 06:30:36
+$MUX1230,2,1,B0,2,0030,0,1,1,1,180,1440,180,110,1000,25,30,100,0,618,1D4,0,644,5A5,0,663,167,0,611,2CF,0,609,3BF,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,16,146,0,99,5327,1,1,1,1,1,0,207,530,238,419,414,0,2,3,-4,-2,4,-650,3,5,2,2,0,0,19,19,19,19,19,0,LIT,MMF,6740,10-11-2021 09:30:34
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   2 %   2 %   0 %   0 %
+Peak:        23 %  24 %  18 %  17 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 10-11-2021 09:30:37
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 10-11-2021 09:30:37
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 10-11-2021 09:30:37
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 10-11-2021 09:30:37
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 10-11-2021 09:30:37
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   3 %   1 %   2 %   1 %   0 %
+Peak:        24 %  24 %  22 %  22 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 10-11-2021 12:30:38
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 10-11-2021 12:30:38
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 10-11-2021 12:30:38
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 10-11-2021 12:30:38
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 10-11-2021 12:30:38
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   7 %   1 %   1 %   1 %   0 %
+Peak:        24 %  24 %  24 %  11 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 10-11-2021 15:30:38
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 10-11-2021 15:30:38
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 10-11-2021 15:30:38
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 10-11-2021 15:30:38
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 10-11-2021 15:30:38
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   4 %   3 %   2 %   1 %   0 %
+Peak:        22 %  24 %  22 %  24 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 10-11-2021 18:30:39
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 10-11-2021 18:30:39
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 10-11-2021 18:30:39
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 10-11-2021 18:30:39
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 10-11-2021 18:30:39
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   5 %   1 %   2 %   1 %   0 %
+Peak:        24 %  24 %  24 %  22 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 10-11-2021 21:30:40
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 10-11-2021 21:30:40
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 10-11-2021 21:30:40
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 10-11-2021 21:30:40
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 10-11-2021 21:30:40
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   1 %   1 %   0 %   0 %
+Peak:        25 %  25 %  25 %  16 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 11-11-2021 00:30:41
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 11-11-2021 00:30:41
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 11-11-2021 00:30:41
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 00:30:41
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 11-11-2021 00:30:41
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   3 %   2 %   2 %   0 %   0 %
+Peak:        24 %  24 %  24 %  17 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 11-11-2021 03:30:42
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 03:30:42
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 11-11-2021 03:30:42
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 11-11-2021 03:30:42
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 11-11-2021 03:30:42
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   7 %   1 %   1 %   1 %   0 %
+Peak:        23 %  24 %  22 %  19 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 11-11-2021 06:30:42
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 11-11-2021 06:30:42
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 11-11-2021 06:30:42
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 11-11-2021 06:30:42
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 06:30:42
+$MUX1230,2,1,B0,2,0030,0,1,1,1,180,1440,180,110,1000,25,30,100,0,618,1CD,0,644,584,0,663,167,0,611,2C5,0,609,3AF,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,20,146,0,99,5317,1,1,1,1,1,0,193,498,236,389,391,0,2,4,2,2,4,-650,3,4,2,2,0,0,19,19,19,19,19,0,LIT,MMF,6740,11-11-2021 09:30:40
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   4 %   2 %   2 %   0 %   0 %
+Peak:        24 %  24 %  23 %  20 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 11-11-2021 09:30:43
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 11-11-2021 09:30:43
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 11-11-2021 09:30:43
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 11-11-2021 09:30:43
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 09:30:43
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   8 %   1 %   2 %   0 %   0 %
+Peak:        24 %  21 %  22 %  19 %  16 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 11-11-2021 12:30:44
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 12:30:44
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 11-11-2021 12:30:44
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 11-11-2021 12:30:44
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 11-11-2021 12:30:44
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   3 %   1 %   0 %   0 %
+Peak:        24 %  24 %  24 %  21 %  17 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 11-11-2021 15:30:45
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 15:30:45
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 11-11-2021 15:30:45
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 11-11-2021 15:30:45
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 11-11-2021 15:30:45
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      4 %   3 %   2 %   2 %   0 %   0 %
+Peak:        24 %  25 %  24 %  17 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 11-11-2021 18:30:46
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 2
+B0 B1 3E7.0000001DB0 11-11-2021 18:30:46
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 11-11-2021 18:30:46
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 18:30:46
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      6 %   4 %   1 %   2 %   1 %   0 %
+Peak:        25 %  23 %  23 %  13 %  19 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 11-11-2021 21:30:45
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 11-11-2021 21:30:46
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 11-11-2021 21:30:46
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 11-11-2021 21:30:46
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 11-11-2021 21:30:46
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   1 %   2 %   1 %   0 %
+Peak:        24 %  25 %  24 %  19 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 00:30:47
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 12-11-2021 00:30:47
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 12-11-2021 00:30:47
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 12-11-2021 00:30:47
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   4 %   3 %   2 %   0 %   0 %
+Peak:        24 %  24 %  24 %  20 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 12-11-2021 03:30:48
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 12-11-2021 03:30:48
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 12-11-2021 03:30:48
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 12-11-2021 03:30:48
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 03:30:48
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   3 %   1 %   1 %   0 %   0 %
+Peak:        24 %  24 %  19 %  12 %  19 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 12-11-2021 06:30:48
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 12-11-2021 06:30:49
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 06:30:49
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 12-11-2021 06:30:49
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 12-11-2021 06:30:49
+$MUX1230,2,1,B0,2,0030,0,1,1,1,180,1440,180,110,1000,25,30,100,0,618,1C7,0,644,574,0,663,165,0,611,2BE,0,609,3A8,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,22,146,0,99,5305,1,1,1,1,1,0,187,487,235,382,387,0,0,1,1,1,3,-650,3,4,2,1,0,0,19,19,19,19,19,0,LIT,MMF,6740,12-11-2021 09:30:47
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   4 %   2 %   1 %   0 %   0 %
+Peak:        23 %  24 %  23 %  14 %  17 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 12-11-2021 09:30:50
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 12-11-2021 09:30:50
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 12-11-2021 09:30:50
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 12-11-2021 09:30:50
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 09:30:50
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   1 %   1 %   0 %   0 %
+Peak:        25 %  25 %  25 %  13 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 12-11-2021 12:30:51
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 12:30:51
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 12-11-2021 12:30:51
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 12-11-2021 12:30:51
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 12-11-2021 12:30:51
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   2 %   1 %   0 %   0 %
+Peak:        24 %  25 %  22 %  16 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 15:30:51
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 12-11-2021 15:30:51
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 12-11-2021 15:30:51
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 12-11-2021 15:30:51
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 12-11-2021 15:30:51
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   2 %   1 %   1 %   0 %
+Peak:        24 %  23 %  20 %  18 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 12-11-2021 18:30:52
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 12-11-2021 18:30:52
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 12-11-2021 18:30:52
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 18:30:52
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 12-11-2021 18:30:52
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   6 %   3 %   1 %   2 %   0 %
+Peak:        25 %  25 %  25 %  20 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 12-11-2021 21:30:53
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 12-11-2021 21:30:53
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 12-11-2021 21:30:53
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 12-11-2021 21:30:53
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 12-11-2021 21:30:53
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   5 %   2 %   1 %   1 %   0 %
+Peak:        24 %  20 %  19 %  18 %  21 %   0 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+B0 B2 3E7.0000001DB0 13-11-2021 00:30:54
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 13-11-2021 00:30:54
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 00:30:54
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 13-11-2021 00:30:54
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 00:30:54
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      5 %   4 %   2 %   1 %   0 %   0 %
+Peak:        24 %  24 %  22 %  16 %  22 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 13-11-2021 03:30:54
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 03:30:54
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 13-11-2021 03:30:54
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 13-11-2021 03:30:54
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 03:30:54
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   6 %   3 %   2 %   3 %   0 %
+Peak:        23 %  25 %  24 %  19 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 06:30:55
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 13-11-2021 06:30:55
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 13-11-2021 06:30:55
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 06:30:55
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 13-11-2021 06:30:55
+$MUX1230,2,1,B0,2,0030,0,1,1,1,180,1440,180,110,1000,25,30,100,0,618,1BF,0,644,577,0,663,168,0,611,2B4,0,609,39D,0,650,0,0,1,2,3,4,5,0,0,0,0,0,0,0,20,146,0,99,5345,1,1,1,1,1,0,185,489,234,379,392,0,0,2,3,2,3,-650,2,6,2,2,1,0,19,19,19,19,19,0,LIT,MMF,6740,13-11-2021 09:30:53
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   6 %   2 %   2 %   1 %   0 %
+Peak:        25 %  25 %  16 %  20 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 1
+B0 B5 3E7.0000001DB0 13-11-2021 09:30:56
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 09:30:56
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 13-11-2021 09:30:56
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 09:30:56
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      3 %   5 %   1 %   2 %   1 %   0 %
+Peak:        24 %  25 %  25 %  24 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 13-11-2021 12:30:57
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 12:30:57
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 13-11-2021 12:30:57
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 13-11-2021 12:30:57
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 12:30:57
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   4 %   3 %   2 %   0 %   0 %
+Peak:        23 %  23 %  24 %  18 %  24 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 13-11-2021 15:30:57
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 15:30:58
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 13-11-2021 15:30:58
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 13-11-2021 15:30:58
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 15:30:58
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   4 %   3 %   1 %   0 %   0 %
+Peak:        25 %  24 %  22 %  18 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 13-11-2021 18:30:58
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 18:30:58
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 13-11-2021 18:30:58
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 18:30:58
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 13-11-2021 18:30:58
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      1 %   4 %   1 %   1 %   0 %   0 %
+Peak:        24 %  25 %  24 %  21 %  25 %   0 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 13-11-2021 21:30:58
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 13-11-2021 21:30:59
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 13-11-2021 21:30:59
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+B0 B3 3E7.0000001DB0 13-11-2021 21:30:59
+MESSAGE: Test Tag Found
+B0 B4 3E7.0000001DB0 13-11-2021 21:30:59
+Noise report for Reader ID#B0
+Antenna:      1     2     3     4     5     6
+Average:      2 %   6 %   1 %   2 %   0 %   0 %
+Peak:        25 %  24 %  23 %  17 %  23 %   0 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+B0 B4 3E7.0000001DB0 14-11-2021 00:31:00
+MESSAGE: Test Tag Found
+B0 B5 3E7.0000001DB0 14-11-2021 00:31:00
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+B0 B1 3E7.0000001DB0 14-11-2021 00:31:00
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+B0 B2 3E7.0000001DB0 14-11-2021 00:31:00
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+B0 B3 3E7.0000001DB0 14-11-2021 00:31:00
