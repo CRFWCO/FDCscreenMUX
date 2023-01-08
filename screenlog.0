@@ -1,0 +1,14 @@
+MESSAGE: Test Tag Fired on antenna 1
+MESSAGE: Test Tag Found
+F0 F1 3E7.0000001DF0 08-01-2023 00:20:50
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+F0 F3 3E7.0000001DF0 08-01-2023 00:20:50
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+F0 F4 3E7.0000001DF0 08-01-2023 00:20:50
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+F0 F5 3E7.0000001DF0 08-01-2023 00:20:50
